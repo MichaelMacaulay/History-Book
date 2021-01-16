@@ -1,0 +1,12 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1605055780383/work
+certifi==2020.12.5
+cffi==1.14.4
+Django==3.1.4
+django-bootstrap3==14.2.0
+django-braces==1.14.0
+misaka==2.1.1
+pycparser==2.20
+pytz @ file:///tmp/build/80754af9/pytz_1606604771399/work
+six==1.15.0
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+wincertstore==0.2
